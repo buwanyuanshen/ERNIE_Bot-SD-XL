@@ -3,6 +3,8 @@
 ## 百度大模型 Chat GUI
 
 这是一个使用百度大模型进行实时聊天的图形用户界面（GUI）应用程序。用户可以与多个预训练模型进行交互，并通过调整参数来定制聊天体验。
+![image](https://github.com/buwanyuanshen/ERNIE_Bot-SD-XL/assets/144007759/b759c68c-adcb-4eed-b4c2-ab0e3e0c2c78)
+
 
 ### 使用方法
 
@@ -34,11 +36,13 @@ pip install -r requirements.txt
 ### 介绍
 
 这个Python脚本允许你与百度的Stable Diffusion XL绘画模型交互，根据你提供的提示和参数生成图像。该脚本利用百度的文本到图像生成API。
+![image](https://github.com/buwanyuanshen/ERNIE_Bot-SD-XL/assets/144007759/b44132a6-586f-4fac-841b-d6254c8d7742)
+
 
 ### 先决条件
 
 - Python 3.x
-- 必需的Python包（使用`pip install package_name`安装）：
+- 必需的Python包：
   - `base64`
   - `hashlib`
   - `random`
